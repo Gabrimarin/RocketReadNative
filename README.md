@@ -1,3 +1,3 @@
 # RocketReadNative
 
-Aplicativo de gerenciamento de leituras.
+Aplicativo de gerenciamento de leituras construído em React Native.
